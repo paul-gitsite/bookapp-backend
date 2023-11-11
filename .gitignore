@@ -1,0 +1,20 @@
+# Node modules
+node_modules/
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# Build output
+dist/
+build/
+*.tgz
+git remote set-url https://github.com/paul-gitsite/backend.git
+git remote set-url https://github.com/paul-gitsite/backend.git
